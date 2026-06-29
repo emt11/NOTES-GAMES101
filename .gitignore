@@ -12,3 +12,6 @@ Thumbs.db
 
 # Trash
 .trash/
+
+# Claude session files
+.claudian/
