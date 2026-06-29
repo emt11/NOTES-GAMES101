@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "./images",
+  "promptDelete": false,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "strictLineBreaks": false,
+  "vimMode": false
+}

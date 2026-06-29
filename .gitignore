@@ -1,0 +1,14 @@
+# Obsidian internal state (changes frequently, not meaningful to track)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Plugin & theme files (can re-download)
+.obsidian/plugins/
+.obsidian/themes/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Trash
+.trash/
